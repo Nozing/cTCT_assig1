@@ -1,4 +1,5 @@
-# cTCT_assig1
+# Assignment 1
+
 Coursera - Bitcoin and Cryptocurrency Technologies - Assignment 1
 
 The mark of the assignament was 70/100.
